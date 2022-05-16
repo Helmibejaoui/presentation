@@ -24,14 +24,14 @@
           >Discord Community</a>
         </p>
       </v-col>
-      
+      <router-view></router-view>
     </v-row>
   </v-container>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'Main',
 
   data: () => ({}),
 }
