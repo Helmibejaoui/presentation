@@ -1,5 +1,5 @@
 import VueRouter from 'vue-router';
-import Main from "../components/Main";
+import Main from "../components/Home/Main";
 
 const routes = [
     {
